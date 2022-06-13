@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amin.
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning software develepment and data sciences.
-- 💞️ I’m looking to collaborate on Spring web apps.
+- 🌱 I’m currently learning full-stack software develepment.
+- 💞️ I’m looking to collaborate on NodeJS web apps.
 - 📫 How to reach me: amin394@outlook.com
