@@ -1,18 +1,16 @@
 body {
     background-color: rgb(225, 225, 225);
-    font-family: 'Play', sans-serif;
+    font-family: Cantarell, Calibri, sans-serif;
     line-height: auto;
     letter-spacing: 0.5px;
-    font-weight: 200;
     font-size: 30;
     color: rgb(50, 50, 50);
 }
 
 #profile-pic {
-    width: 140px;
-    border-radius: 40%;
-    box-shadow: 5px 5px 3px gray;
-    border: 1px solid rgb(209, 209, 209);
+    width: 200px;
+    border-radius: 10%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 h1,
@@ -43,7 +41,9 @@ a:hover {
 
 p {
     text-justify: auto;
-    font-weight: lighter;
+    font-weight: 400;
+    width: 85%;
+    margin: auto;
 }
 
 .list-inline {
